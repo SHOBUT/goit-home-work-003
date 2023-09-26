@@ -27,7 +27,7 @@
     align-items: center;
     }
     .header-socials{
-    
+    display: flex;
     }
     .header-span{
     color: #2e2f42;
