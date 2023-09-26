@@ -31,6 +31,9 @@
     .header-span{
     color: #2e2f42;
     }
+    .header-div{
+    display: flex;
+    }
     .logo{
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
