@@ -24,6 +24,7 @@
     }
     .hrader-nav{
     display: flex;
+    align-items: center;
     }
     .header-socials{
     
@@ -33,7 +34,6 @@
     }
     .header-div{
     display: flex;
-    align-items: center;
     }
     .logo{
     font-family: 'Raleway', sans-serif;
