@@ -159,7 +159,7 @@ width: calc((100% - 72px) / 4);
 padding: 120px 0;
 }
 .intent-title{
-
+margin-bottom: 72px;
 }
 .intent-socials{
 gap: 24px;
