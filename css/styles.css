@@ -17,6 +17,13 @@
     img{
     display: block
     }
+    .visually-hidden {
+    position: absolute;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: 1px;
+    }
     
     /*Header styles*/
     .header{
@@ -147,10 +154,6 @@
     .benefits-list{
     width: calc((100% - 72px) / 4);
     }
-    .visually-hidden {
-    position: fixed;
-    transform: scale(0);
-      }
     
     /*Intent styles*/
     .intent{
