@@ -230,3 +230,9 @@ color: #FFFFFF;
 background-color: #404BBF;
 color: #FFFFFF;
 }
+
+/*container-portfolio*/
+.header-container-portfolio{
+display: flex;
+width: 1158px;
+}
