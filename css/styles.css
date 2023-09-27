@@ -162,7 +162,6 @@ width: calc((100% - 72px) / 4);
     
 /*Intent styles*/
 .intent{
-padding-bottom: 120px;
 padding: 120px 0;
 }
 .intent-title{
