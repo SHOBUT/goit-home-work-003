@@ -141,16 +141,17 @@ background-color: #404BBF;
 padding: 120px 0;
 }
 .benefits-title{
-
+margin-bottom: 8px;
 }
 .benefits-section{
 
 }
 .benefits-socials{
-
+display: flex;
+gap: 24px;
 }
 .benefits-list{
-
+width: calc((100% - 72px) / 4);
 }
     
 /*Intent styles*/
