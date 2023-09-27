@@ -139,6 +139,9 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     }
+    .visually-hidden{
+    visibility: hidden;
+    }
     
     /*Intent styles*/
     .intent{
