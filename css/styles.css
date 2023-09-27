@@ -170,6 +170,9 @@
     .intent-socials{
     gap: 24px;
     }
+    .intent-list{
+    width: calc((100% - 48px) / 3);
+    }
     
     /*Team styles*/
     .team{
