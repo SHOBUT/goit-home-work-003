@@ -139,9 +139,12 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     }
-    .benefits-list{
+    .benefits-socials{
     display: flex;
     gap: 24px;
+    }
+    .benefits-list{
+    width: calc((100% - 72px) / 4);
     }
     
     /*Intent styles*/
