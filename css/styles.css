@@ -58,7 +58,6 @@
     list-style: none;
     display: flex;
     gap: 40px;
-    gap: 24px;
     }
     .list-item{
     font-weight: 500;
@@ -139,6 +138,10 @@
     .benefits-section{
     line-height: 1.5;
     letter-spacing: 0.02em;
+    }
+    .benefits-list{
+    display: flex;
+    gap: 24px;
     }
     
     /*Intent styles*/
