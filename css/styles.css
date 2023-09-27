@@ -140,7 +140,8 @@
     letter-spacing: 0.02em;
     }
     .visually-hidden{
-    visibility: hidden;
+    position: fixed;
+    transform: scale(0);
     }
     
     /*Intent styles*/
