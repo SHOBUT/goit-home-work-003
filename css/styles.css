@@ -165,6 +165,10 @@
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
+    }
+    .intent-socials{
+    gap: 24px;
     }
     
     /*Team styles*/
