@@ -178,10 +178,13 @@ padding: 120px 0;
 margin-bottom: 72px;
 }
 .team-list{
-
+border-radius: 0px 0px 4px 4px;
 }
 .team-section{
 
+}
+.team-socials{
+gap: 24px;
 }
     
 /*Footer styles*/
