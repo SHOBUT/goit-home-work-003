@@ -233,6 +233,11 @@ color: #FFFFFF;
 background-color: #404BBF;
 color: #FFFFFF;
 }
+.navigation-list{
+justify-content: center;
+gap: 24px;
+margin-bottom: 72px;
+}
 
 /*container-portfolio*/
 .header-container-portfolio{
