@@ -144,10 +144,9 @@ padding: 120px 0;
 }
 .benefits-title{
 margin-bottom: 8px;
-width: calc((100% - 72px) / 4);
 }
 .benefits-section{
-
+flex-basis: calc((100% - 3 * 24px) / 4);
 }
 .benefits-socials{
 display: flex;
