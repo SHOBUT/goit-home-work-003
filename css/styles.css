@@ -209,7 +209,10 @@ letter-spacing: 0.02em;
 max-width: 264px;
 }
     
-/*navigation*/
+/*navigation-portfolio*/
+.navigation{
+padding-top: 96px;
+}
 .navigation-button{
 background-color: #F4F4FD;
 font-family: 'Roboto', sans-serif;
