@@ -224,16 +224,21 @@ letter-spacing: 0.04em;
 letter-spacing: 0.04em;
 color: #4d5ae5;
 cursor: pointer;
+padding: 12px 24px;
+border: 1px solid #e7e9fc;
+border-radius: 4px;
 }
 .navigation-button:hover{
 background-color: #404BBF;
 color: #FFFFFF;
+border: 1px solid transparent;
 }
 .navigation-button:focus{
 background-color: #404BBF;
 color: #FFFFFF;
+border: 1px solid transparent;
 }
-.navigation-list{
+.navigation-socials{
 justify-content: center;
 gap: 24px;
 margin-bottom: 72px;
