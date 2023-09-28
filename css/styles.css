@@ -243,10 +243,10 @@ justify-content: center;
 gap: 24px;
 margin-bottom: 72px;
 }
-.navigation-list{
-display: flex;
+.navigation-socials-portfolio{
 flex-wrap: wrap;
-column-gap: 48px;
+column-gap: 24px;
+row-gap: 48px;
 }
 
 /*container-portfolio*/
