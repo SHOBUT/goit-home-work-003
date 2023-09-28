@@ -146,7 +146,7 @@ padding: 120px 0;
 margin-bottom: 8px;
 }
 .benefits-section{
-flex-basis: calc((100% - 3 * 24px) / 4);
+
 }
 .benefits-socials{
 display: flex;
