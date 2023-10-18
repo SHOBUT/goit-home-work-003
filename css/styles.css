@@ -150,6 +150,9 @@ padding: 120px 0;
 .benefits-title{
 margin-bottom: 8px;
 }
+.benefits-section{
+line-height: 24px;
+}
 .benefits-socials{
 display: flex;
 gap: 24px;
