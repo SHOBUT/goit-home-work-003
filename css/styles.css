@@ -122,6 +122,7 @@ max-width: 496px;
 }
 .hero-button{
 margin: 0 auto;
+margin-top: 48px;
 background-color: #4D5AE5;
 font-family: 'Roboto', sans-serif;
 font-size: 16px;
@@ -164,7 +165,7 @@ width: calc((100% - 72px) / 4);
     
 /*Intent styles*/
 .intent{
-padding: 120px 0;
+
 }
 .intent-title{
 text-align: center;
@@ -275,11 +276,22 @@ border-top: none;
 margin-bottom: 8px;
 }
 .navigation-title{
-margin-bottom: 8px;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.4px;
 }
 .navigation-list{
 max-width: 360px;
 margin-bottom: 120px;
+}
+.navigation-section{
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.32px;
 }
 
 /*container-portfolio*/
