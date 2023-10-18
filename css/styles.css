@@ -1,6 +1,18 @@
 /*Base style*/
 :root{
---main-text-color: #434455;
+--iris-color: #4D5AE5;
+--ocean-color: #404BBF;
+--navy-blue-color: #2E2F42;
+--green-color: #31D0AA;
+--slate-color: #434455;
+--slate-color: #8E8F99;
+--cornflower-color: #E7E9FC;
+--cloud-color: #F4F4FD;
+--navy-blue-modal-color: #2E2F42;
+--grey-color: #2E2F42;
+--white-color: #FFFFFF;
+--dairy-color: #FCFCFC;
+
 }
 body{
 font-family: 'Roboto', sans-serif;
@@ -157,6 +169,8 @@ line-height: 24px;
 .benefits-socials{
 display: flex;
 gap: 24px;
+margin: 0px;
+padding: 0px;
 }
 .benefits-list{
 width: calc((100% - 72px) / 4);
@@ -180,6 +194,7 @@ width: calc((100% - 48px) / 3);
     
 /*Team styles*/
 .team{
+background: var(--CLOUD, #F4F4FD);
 padding: 120px 0;
 }
 .team-title{
