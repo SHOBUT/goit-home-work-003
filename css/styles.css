@@ -161,10 +161,26 @@ background-color: #404BBF;
 padding: 120px 0;
 }
 .benefits-title{
+font-family: 'Roboto', sans-serif;
+color: var(--NAVY-BLUE, #2E2F42);
+margin: 0px;
 margin-bottom: 8px;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 120% */
+letter-spacing: 0.4px;
 }
 .benefits-section{
-line-height: 24px;
+font-family: 'Roboto', sans-serif;
+color: var(--NAVY-BLUE, #2E2F42);
+margin: 0px;
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;
 }
 .benefits-socials{
 display: flex;
@@ -182,8 +198,15 @@ width: calc((100% - 72px) / 4);
 padding-bottom: 120px;
 }
 .intent-title{
+font-family: 'Roboto', sans-serif;
 text-align: center;
+margin: 0px;
 margin-bottom: 72px;
+color: var(--NAVY-BLUE, #2E2F42);
+font-size: 36px;
+line-height: 40px; /* 111.111% */
+letter-spacing: 0.72px;
+text-transform: capitalize;
 }
 .intent-socials{
 gap: 24px;
@@ -198,14 +221,29 @@ background: var(--CLOUD, #F4F4FD);
 padding: 120px 0;
 }
 .team-title{
+font-family: 'Roboto', sans-serif;
+color: var(--NAVY-BLUE, #2E2F42);
 text-align: center;
 margin-bottom: 72px;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 40px; /* 111.111% */
+letter-spacing: 0.72px;
+text-transform: capitalize;
 }
 .team-list{
 border-radius: 0px 0px 4px 4px;
 }
 .team-section{
+font-family: 'Roboto', sans-serif;
+color: var(--SLATE, #434455);
 text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;
 }
 .team-socials{
 gap: 24px;
@@ -214,8 +252,15 @@ gap: 24px;
 padding: 32px 0;
 }
 .team-title-card{
+font-family: 'Roboto', sans-serif;
+color: var(--NAVY-BLUE, #2E2F42);
 text-align: center;
 margin-bottom: 8px;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 120% */
+letter-spacing: 0.4px;
 }
     
 /*Footer styles*/
@@ -288,7 +333,6 @@ row-gap: 48px;
 padding: 32px 16px;
 border: 1px solid #e7e9fc;
 border-top: none;
-margin-bottom: 8px;
 }
 .navigation-title{
 font-size: 20px;
@@ -299,8 +343,7 @@ letter-spacing: 0.4px;
 margin-bottom: 8px;
 }
 .navigation-list{
-max-width: 360px;
-margin-bottom: 120px;
+
 }
 .navigation-section{
 font-size: 16px;
